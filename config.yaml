@@ -1,0 +1,9 @@
+postgres:
+  url: postgres://postgres:12345678@localhost/test-playground
+  host: localhost
+  port: 5432
+  database: test-playground
+  user: postgres
+  password: 12345678
+api_key: your_api_key
+debug: true

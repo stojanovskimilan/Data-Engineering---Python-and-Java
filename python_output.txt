@@ -1,0 +1,3 @@
+Rows: 25000
+Data insertion using Python took 17606 milliseconds.
+-------------------------------------------------------------------

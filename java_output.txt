@@ -1,0 +1,3 @@
+Rows: 25000
+Data insertion using Java took 4610 milliseconds.
+-------------------------------------------------------------------
